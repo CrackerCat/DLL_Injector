@@ -22,6 +22,7 @@ namespace DLL_Injector {
 	public:
 		MyForm(void)
 		{
+			
 			InitializeComponent();
 			//
 			//TODO: Add the constructor code here

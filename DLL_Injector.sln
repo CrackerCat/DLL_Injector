@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL_Injector", "DLL_Injector.vcxproj", "{AB9523CA-71FF-4E11-BA69-93E691EBD4F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9523CA-71FF-4E11-BA69-93E691EBD4F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB9523CA-71FF-4E11-BA69-93E691EBD4F1}.Debug|x86.Build.0 = Debug|Win32
+		{AB9523CA-71FF-4E11-BA69-93E691EBD4F1}.Release|x86.ActiveCfg = Release|Win32
+		{AB9523CA-71FF-4E11-BA69-93E691EBD4F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7FB61D-074F-42E6-8FEB-0026CCFAA12B}
+	EndGlobalSection
+EndGlobal
