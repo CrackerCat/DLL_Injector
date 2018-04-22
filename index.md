@@ -1,10 +1,13 @@
 # DLL Injector
 
-The following application injects DLLs into processes in windows OS
+   The following application injects DLLs into processes in windows OS
 
 ## Version 1.0 Release
    You can download the latest release here:
-   <a href="https://github.com/gilmansharov/DLL_Injector/releases/download/v1.0/DLLInjector.exe" target="_blank">Download Link</a>
+   
+   DLL Injector - x64 Binary: <a href="https://github.com/gilmansharov/DLL_Injector/releases/download/v1.0/DLLInjector.exe" target="_blank">Download</a>
+   
+   DLL Injector - x64 Binary: <a href="https://github.com/gilmansharov/DLL_Injector/releases/download/v1.0/DLL.Injector_x64.exe" target="_blank">Download</a>
 
 # Usage
 
