@@ -1,9 +1,25 @@
-# DLL_Injector
+# DLL Injector
 
-This application injects a given DLL into a process.
+The following application injects DLLs into processes in windows OS
 
-If you don't have sufficient permissions, the injection will fail.
+## Version 1.0 Release
+   You can download the latest release here:
+   <a href="https://github.com/gilmansharov/DLL_Injector/releases/download/v1.0/DLLInjector.exe" target="_blank">Download Link</a>
 
-Can be used to hook functions or run DLL code inside another process, make cracks and cheats for games.
+# Usage
 
-Have fun.
+   1. Open the DLL that you want to inject
+   2. Click the Refresh button in order to view the current process list.
+   3. Choose the process that you want to be injected.
+   4. Click 'Inject'.
+   5. Have Fun!
+   
+## Troubleshooting
+
+Q: I can't inject my DLL to system processes.
+A: Make sure that you have the same privileges as the processes you trying to inject to.
+
+Q: The injection succeed with one process, and fails with an other process. And I have the same privileges as these processes.
+A: Make sure that you inject x86 DLLs to x86 processes, and x64 DLLs to x64 processes.
+
+### Made By Gil Mansharov
